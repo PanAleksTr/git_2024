@@ -10,4 +10,5 @@
     = = =
   ==== ====
  ===== =====
+ git remote add https://github.com/PanAleksTr/git_2024 link
 
